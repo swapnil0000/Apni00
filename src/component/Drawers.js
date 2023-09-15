@@ -63,7 +63,7 @@ const Drawers = () => {
         variant="permanent"
         anchor="left" >
 
-      <Box p={2} width="40px" textAlign="center" >
+      <Box p={2} width="40px" textAlign="center">
         <IconButton sx={{display:'flex',flexDirection:'column' }} >
           <MenuIcon sx={{marginRight:'2rem', marginTop:"10px" , color:'black', marginBottom:'30px'}} />
         </IconButton>
